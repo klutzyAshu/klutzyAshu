@@ -46,14 +46,14 @@ A simple job portal application with database integration.
 ### 🐧 Linux corner
 
 ```bash
-$ neofetch
+$ fastfetch
 
 OS        → Arch Linux
 WM        → Hyprland
-Editor    → VS Code
-Language  → Java
+Editor    → VS Code, NeoVim
+Language  → Java, 
 Terminal  → foot
-Mood      → 🎧
+Mood      → 🎧Chilled.....
 ```
 
 ---
