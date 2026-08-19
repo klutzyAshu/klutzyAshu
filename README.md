@@ -16,6 +16,8 @@
 🐧 Arch Linux user
 🎧 Music always playing
 🛠️ Learning by building
+
+
 ```
 
 I enjoy making **Java applications**, experimenting with Linux,
