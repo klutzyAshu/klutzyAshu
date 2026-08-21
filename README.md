@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Ashu&fontSize=60&fontAlignY=35&animation=twinkling" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Developer+%E2%98%95;Arch+Linux+Enthusiast+%F0%9F%90%A7;Building+things+and+breaking+them+%F0%9F%98%AD;Code+%7C+Linux+%7C+Music+%F0%9F%8E%A7" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Java+Develepor+%E2%98%95;Arch+Linux+Enthusiast+%F0%9F%90%A7;Building+things+and+breaking+them+%F0%9F%98%AD;Code+%7C+Linux+%7C+Music+%F0%9F%8E%A7" />
 </p>
 
 ---
