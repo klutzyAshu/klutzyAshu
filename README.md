@@ -60,10 +60,10 @@ Mood      → 🎧Chilled.....
 
 ---
 
-### 🎧 Currently vibing
-
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31w5r7s3q7q7example&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f" width="400"/>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ia2zrs6lebupoe46hok64izlru&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ia2zrs6lebupoe46hok64izlru&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=true" width="400" />
+  </a>
 </p>
 
 > *"It works on my machine."*
