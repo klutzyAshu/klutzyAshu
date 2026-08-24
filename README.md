@@ -25,7 +25,7 @@ and occasionally spending way too much time configuring things that already work
 
 ### 🔨 Currently building
 
-🎬 **Movie ticket booking portel **
+🎬 **Movie ticket booking portel**
 `Java` `Swing` `MariaDB` `JDBC`
 
 A movie ticket booking system with movies, theatres, shows, seats and bookings.
