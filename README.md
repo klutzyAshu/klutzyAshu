@@ -166,11 +166,11 @@ $ reboot
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=klutzyAshu&theme=github-compact&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=klutzyAshu&bg_color=00000000&color=9f9f9f&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=Ashu%27s%20Contribution%20Graph"
     width="95%"
+    alt="Ashu's GitHub contribution graph"
   />
 </p>
-
 ---
 
 # 🧠 Currently Learning
