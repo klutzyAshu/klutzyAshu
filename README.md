@@ -114,7 +114,7 @@ $ reboot
 
 # 🎧 Currently Vibing
 
-<p align="center">
+<p align="left">
   <b>✦ MUSIC WHILE I CODE ✦</b>
   <br>
   <sub>What I'm listening to right now</sub>
