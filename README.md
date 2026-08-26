@@ -211,14 +211,14 @@ $ reboot
 <p align="center">
 
 <a href="https://github.com/klutzyAshu">
-  <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://buymeacoffee.com/klutzya">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161b22?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00"/>
 </a>
 <a href="https://www.instagram.com/im.klutzy/">
-  <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
