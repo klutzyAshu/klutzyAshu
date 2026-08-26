@@ -79,7 +79,7 @@ My development philosophy is pretty simple:
 
 ---
 
-# 🐧 Linux Corner
+# 🐧 System Details 
 
 ```text
 ╭──────────────────────────────────────────────╮
@@ -91,8 +91,8 @@ My development philosophy is pretty simple:
 │  Shell       → Bash                          │
 │  Terminal    → foot                          │
 │  Editors     → VS Code / Neovim              │
-│  Languages   → Java / Python / C             │
-│  Database    → MariaDB                       │
+│  Languages   → Java / Python / C /C++ etc    │
+│  Database    → MariaDB /My SQL etc           │
 │  Status      → Building something...         │
 │  Mood        → 🎧 Chilled                    │
 │                                              │
