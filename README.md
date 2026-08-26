@@ -114,15 +114,9 @@ $ reboot
 
 # 🎧 Currently Vibing
 
-<p align="left">
-  <b>✦ MUSIC WHILE I CODE ✦</b>
-  <br>
-  <sub>What I'm listening to right now</sub>
-</p>
-
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ia2zrs6lebupoe46hok64izlru&redirect=true">
     <img
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ia2zrs6lebupoe46hok64izlru&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&border_radius=18&bar_color=58A6FF&bar_color_cover=true&interchange=false&hide_remaster=true"
