@@ -4,6 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=210&section=header&text=ASHU&fontSize=72&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
 </p>
 
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+Developer+%E2%98%95;Arch+Linux+Enthusiast+%F0%9F%90%A7;Building+Things+%26+Breaking+Things+%F0%9F%92%80;Code+%7C+Linux+%7C+Music+%F0%9F%8E%A7;Learning+%E2%86%92+Building+%E2%86%92+Learning" />
 </p>
