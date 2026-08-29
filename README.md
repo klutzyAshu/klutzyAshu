@@ -103,6 +103,9 @@ My development philosophy is pretty simple:
 
 ```bash
 $ sudo pacman -S something
+Sudo pacman -S timepass
+Sudo pacman -S life
+command not found
 $ reboot
 
 💀
