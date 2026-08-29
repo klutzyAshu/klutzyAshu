@@ -141,25 +141,7 @@ $ reboot
   <sub>🎧 Music + ☕ + 💻 = better coding sessions</sub>
 </p>
 
----
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=klutzyAshu&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=klutzyAshu&hide_border=true&theme=transparent"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=klutzyAshu&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-  />
-</p>
----
 
 # 🧠 Currently Learning
 
