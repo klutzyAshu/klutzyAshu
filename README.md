@@ -1,24 +1,22 @@
-# 👋 Hey, I'm Ashu
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=210&section=header&text=ASHU&fontSize=72&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:161b22,100:30363d&height=210&section=header&text=ASHU&fontSize=76&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%"/>
 </p>
 
-
+<h1 align="center">👋 Hey, I'm Ashu</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+Developer+%E2%98%95;Arch+Linux+Enthusiast+%F0%9F%90%A7;Building+Things+%26+Breaking+Things+%F0%9F%92%80;Code+%7C+Linux+%7C+Music+%F0%9F%8E%A7;Learning+%E2%86%92+Building+%E2%86%92+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Java+Developer+%E2%98%95;Backend+Development+%F0%9F%94%A7;Arch+Linux+Enthusiast+%F0%9F%90%A7;Building+Things+%26+Breaking+Things+%F0%9F%92%80;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing animation"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/klutzyAshu">
-    <img src="https://img.shields.io/github/followers/klutzyAshu?style=for-the-badge&logo=github&label=Followers&color=161b22"/>
+    <img src="https://img.shields.io/github/followers/klutzyAshu?style=for-the-badge&logo=github&label=Followers&color=161b22" alt="Followers"/>
   </a>
-  <a href="https://github.com/klutzyAshu?tab=repositories">
-    <img src="https://img.shields.io/github/stars/klutzyAshu?style=for-the-badge&logo=github&label=Stars&color=161b22"/>
+  <a href="https://github.com/klutzyAshu">
+    <img src="https://komarev.com/ghpvc/?username=klutzyAshu&style=for-the-badge&color=161b22&label=Profile+Views" alt="Profile views"/>
   </a>
   <a href="https://buymeacoffee.com/klutzya">
-    <img src="https://img.shields.io/badge/Support%20Me-161b22?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00"/>
+    <img src="https://img.shields.io/badge/Support%20Me-161b22?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00" alt="Support Me"/>
   </a>
 </p>
 
@@ -28,60 +26,104 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="60%" valign="top">
 
 ### 🧑‍💻 Who am I?
 
-I'm **Ashu**, a Computer Science student who enjoys building software, experimenting with Linux, working with databases, and learning by creating real projects.
+Hey! I'm **Ashu**, a third-year Computer Science engineering student and aspiring **Java Developer**.
 
-I mainly work with **Java**, but I like exploring whatever catches my attention.
+I enjoy developing Java applications, exploring backend technologies, working with relational databases, and experimenting with Linux.
 
-My development philosophy is pretty simple:
+My primary focus is **Java, Spring Boot, and backend development**.
+
+I believe the best way to learn programming is by building real applications, understanding how things work, and solving problems along the way.
 
 > **Build it → Break it → Debug it → Understand it**
 
 </td>
-
-<td width="40%">
+<td width="40%" valign="top">
 
 ```text
-🎓 Computer Science
-☕ Java Developer
-🐧 Arch Linux
-🎧 Music Addict
-🛠️ Project Builder
-💻 Open Source
-🔥 Professional Debugger
+╭────────────────────────────╮
+│         ABOUT ASHU         │
+├────────────────────────────┤
+│ Education : B.Tech 3rd Yr  │
+│ Role      : Java Developer │
+│ Focus     : Backend        │
+│ Database  : MariaDB / MySQL│
+│ OS        : Arch Linux     │
+│ Hobby     : Music          │
+│ Status    : Debugging...   │
+╰────────────────────────────╯
 ```
 
 </td>
 </tr>
 </table>
 
+---
 
-# ⚡ Tech Stack
+## ⚡ Tech Stack
 
-### Languages
+### ☕ Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark" alt="Languages"/>
 </p>
 
-### Databases & Tools
+### 🔧 Backend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=spring,maven,hibernate&theme=dark" alt="Backend"/>
 </p>
 
-### Environment
+### 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch,bash,vscode,idea&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb&theme=dark" alt="Databases"/>
+</p>
+
+### 🛠️ Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea&theme=dark" alt="Tools"/>
+</p>
+
+### 🐧 Operating Systems & Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,archlinux,bash,windows&theme=dark" alt="OS"/>
 </p>
 
 ---
 
-# 🐧 System Details 
+## 🚀 Featured Project
+
+### 🎓 AI-Based Integrated MOOC Platform
+
+**AI-Based Integrated MOOC Platform for Online Learning and Academic Skill Development**
+
+An academic software project focused on creating an integrated online learning platform.
+
+**Technologies:**
+- Java
+- Spring Boot
+- Hibernate / JPA
+- MariaDB / MySQL
+- Maven
+- REST APIs
+
+**Project Goals:**
+- Develop a structured online learning platform.
+- Implement backend functionality using Java and Spring Boot.
+- Integrate relational database functionality.
+- Explore AI-assisted features for academic learning.
+
+> Project features and implementation are continuously evolving.
+
+---
+
+## 🐧 My Development Environment
 
 ```text
 ╭──────────────────────────────────────────────╮
@@ -89,37 +131,36 @@ My development philosophy is pretty simple:
 ├──────────────────────────────────────────────┤
 │                                              │
 │  OS          → Arch Linux                    │
-│  WM          → Hyprland                      │
-│  Shell       → Bash                          │
-│  Terminal    → foot                          │
-│  Editors     → VS Code / Neovim              │
-│  Languages   → Java / Python / C /C++ etc    │
-│  Database    → MariaDB /My SQL etc           │
+│  Desktop     → GNOME / Wayland               │
+│  Shell       → Zsh                           │
+│  Editor      → VS Code / Neovim              │
+│  Languages   → Java / Python / C / C++       │
+│  Database    → MariaDB / MySQL               │
+│  Backend     → Spring Boot                   │
+│  Tools       → Git / Docker                  │
 │  Status      → Building something...         │
-│  Mood        → 🎧 Chilled                    │
+│  Mood        → Chilled                       │
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
 
 ```bash
 $ sudo pacman -S something
-Sudo pacman -S timepass
-Sudo pacman -S life
-command not found
-$ reboot
+$ sudo pacman -S timepass
+$ sudo pacman -S life
 
-💀
+error: target not found: life
+
+$ reboot
 ```
 
-> **If it works, don't touch it.**
+> If it works, don't touch it.
 >
-> Me: *touches it anyway.*
+> Me: *touches it anyway.* 💀
 
 ---
 
-# 🎧 Currently Vibing
-
-<br>
+## 🎧 Currently Vibing
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ia2zrs6lebupoe46hok64izlru&redirect=true">
@@ -132,106 +173,105 @@ $ reboot
 </p>
 
 <p align="center">
-  <a href="https://open.spotify.com/">
-    <img src="https://img.shields.io/badge/OPEN%20SPOTIFY-161b22?style=for-the-badge&logo=spotify&logoColor=1DB954"/>
-  </a>
-</p>
-
-<p align="center">
   <sub>🎧 Music + ☕ + 💻 = better coding sessions</sub>
 </p>
 
+---
 
-
-# 🧠 Currently Learning
+## 🧠 Currently Learning
 
 <table align="center">
 <tr>
-<td align="center">☕<br><b>Advanced Java</b></td>
-<td align="center">🗄️<br><b>Database Design</b></td>
-<td align="center">🐧<br><b>Linux</b></td>
-<td align="center">🌐<br><b>Backend</b></td>
+<td align="center">☕<br/><b>Advanced Java</b></td>
+<td align="center">🌱<br/><b>Spring Boot</b></td>
+<td align="center">🗄️<br/><b>Database Design</b></td>
+<td align="center">🧩<br/><b>DSA</b></td>
 </tr>
 <tr>
-<td align="center">🤖<br><b>AI / ML</b></td>
-<td align="center">🔧<br><b>Architecture</b></td>
-<td align="center">🧩<br><b>DSA</b></td>
-<td align="center">🌎<br><b>Open Source</b></td>
+<td align="center">🔐<br/><b>Spring Security</b></td>
+<td align="center">🐳<br/><b>Docker</b></td>
+<td align="center">🏗️<br/><b>Software Architecture</b></td>
+<td align="center">🤖<br/><b>AI / ML</b></td>
 </tr>
 </table>
 
 ---
 
-# 🎯 2026 Goals
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=klutzyAshu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klutzyAshu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com/?user=klutzyAshu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub streak"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
 
 ```text
 ✓  Build real-world Java applications
-✓  Learn more about Linux
-→  Improve DSA & problem solving
-→  Learn backend development
+✓  Improve Core Java fundamentals
+✓  Explore Spring Boot and backend development
+✓  Work with MariaDB and MySQL
+✓  Learn Docker and development workflows
+
+→  Improve DSA & problem-solving
+→  Understand software architecture
 →  Explore AI / ML
 →  Contribute to Open Source
-→  Build something people actually use
-→  Break fewer Linux installations 💀
+→  Build applications people actually use
+→  Break fewer Linux installations
 ```
 
 ---
 
-# ☕ Support My Work
+## ☕ Support My Work
 
 <p align="center">
-
-<a href="https://buymeacoffee.com/klutzya">
-  <img src="https://img.shields.io/badge/☕%20BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000"/>
-</a>
-
+  <a href="https://buymeacoffee.com/klutzya">
+    <img src="https://img.shields.io/badge/☕%20BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy me a coffee"/>
+  </a>
 </p>
 
 <p align="center">
-  <sub>If you like my projects, a coffee helps keep the code flowing ☕</sub>
-</p>
-
----
-
-# 🤝 Connect
-
-<p align="center">
-
-<a href="https://github.com/klutzyAshu">
-  <img src="https://img.shields.io/badge/Github-161b22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://buymeacoffee.com/klutzya">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-161b22?style=for-the-badge&logo=buymeacoffee&logoColor=FFDD00"/>
-</a>
-<a href="https://www.instagram.com/im.klutzy/">
-  <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <sub>If you enjoy my projects, a coffee helps keep the code flowing ☕</sub>
 </p>
 
 ---
 
+## 🤝 Connect With Me
+
 <p align="center">
+  <a href="https://github.com/klutzyAshu">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.instagram.com/im.klutzy/">
+    <img src="https://img.shields.io/badge/Instagram-161b22?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+  </a>
+</p>
+
+---
 
 ```text
 ╭─────────────────────────────────────────────╮
 │                                             │
 │       "It works on my machine."             │
 │                                             │
-│             — Every Developer 💀            │
+│             — Every Developer               │
 │                                             │
 ╰─────────────────────────────────────────────╯
 ```
 
-</p>
-
 <p align="center">
   <b>Thanks for stopping by 👋</b>
-  <br>
+  <br/>
   <sub>Keep coding • Keep building • Keep experimenting 🚀</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=130&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090b,50:161b22,100:30363d&height=130&section=footer" alt="Footer"/>
 </p>
